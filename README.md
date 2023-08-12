@@ -1,16 +1,12 @@
-# bloc_cubit
+# Cubit Example
 
-A new Flutter project.
+state management tool Cubit usage emiting state from web using http.get method
 
-## Getting Started
+## screenshot
+![Screenshot_1691859871](https://github.com/merihcavdar/bloc_cubit/assets/84540989/9617d024-0120-4a6d-80dd-e89db2ed8f5f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- flutter_bloc package
+- cubit usage
+- http package
+- oop
